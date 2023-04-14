@@ -9,4 +9,7 @@
 ### Switch
 
 * Um único componente seja executado
-* 
+
+### Link
+
+* Como se fosse a tag 'anchor <a>'
