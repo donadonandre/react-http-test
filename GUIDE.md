@@ -6,4 +6,7 @@
 
 ``` <Route exact path="/"></Route> ```
 
+### Switch
 
+* Um único componente seja executado
+* 
