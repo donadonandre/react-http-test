@@ -1,5 +1,6 @@
 import React, {useEffect, useState} from "react";
 import './App.css'
+import Routes from "./routes";
 
 function App() {
   const [nutri, setNutri] = useState([])
@@ -21,6 +22,8 @@ function App() {
 
   return (
     <div className="container">
+      <Routes />
+
       <header>
         <strong>React Nutri</strong>
       </header>
